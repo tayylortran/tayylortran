@@ -13,7 +13,7 @@ class Taylor:
 
 ## About Me
 
-> A growth minded, full stack software engineer with experience building apps and services across many languages and technologies. My enthusiasm lies in creating software that bridges the gap between complex systems and their demands, delivering robust and scalable solutions.
+> A curious and driven Computer Science student with hands-on experience turning ideas into working software and secure systems. I love tackling real-world problems, from building full-stack apps to exploring the hidden corners of cybersecurity. My passion lives where software, data, and system reliability meet, crafting solutions that feel seamless to users and resilient behind the scenes. I’m always learning, always iterating, and always excited to build something smarter than yesterday.
 
 <details>
 <summary><b>More Info</b></summary>
